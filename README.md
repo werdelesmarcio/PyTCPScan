@@ -91,5 +91,5 @@ Se quiser entrar em contato, crie um **issue** no GitHub ou envie um e-mail para
 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/werdelesmarcio/PyTCPScan?style=for-the-badge">   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/werdelesmarcio/PyTCPScan?style=for-the-badge">
 
-
-<img src = "https://github.com/werdelesmarcio/Imagens/blob/master/Selos/PoweredByLinux.png?raw=true" width =80 align="Right">
+<img src = "https://github.com/werdelesmarcio/PyTCPScan/blob/main/Images/PoweredByLinux.png?raw=true" width =80 align="Right">
+<img src = "https://github.com/werdelesmarcio/PyTCPScan/blob/main/Images/PoweredByLinux.png?raw=true" width =80 align="Right">
